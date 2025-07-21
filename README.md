@@ -6,7 +6,7 @@
 
 😄現職
 
-輔仁大學 統計資訊學系 助理教授   
+國防醫學大學 醫學系 助理教授   
 
 👯學歷
 
@@ -18,7 +18,7 @@
 🌱經歷
 
 三軍總醫院 人工智慧計物聯網發展中心 資料科學家
-
+輔仁大學 統計資訊學系 助理教授 
 
 <!--
 **oo800217/oo800217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
